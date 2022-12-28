@@ -497,6 +497,7 @@
   },
 
   "icons": {
+    "/nodes/folder.svg": "/icons/folderTypes/folder.svg",
     "ColorPalette": {
       "Tree.iconColor": "foreground",
 

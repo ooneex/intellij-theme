@@ -1,4 +1,4 @@
-<scheme name="Ooneex Theme" version="1" parent_scheme="Darcula">
+<scheme name="Ooneex Theme" version="1.0.1" parent_scheme="Darcula">
 
   <metaInfo>
     <property name="created">2022-12-03T10:31:30</property>
@@ -39,10 +39,10 @@
     <option name="LINE_NUMBERS_COLOR" value="7799bb" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="219fd5" />
     <option name="LOOKUP_COLOR" value="1d1d26" />
-    <option name="INDENT_GUIDE" value="274c67" />
-    <option name="VISUAL_INDENT_GUIDE" value="274c67" />
-    <option name="SELECTED_INDENT_GUIDE" value="274c67" />
-    <option name="TEARLINE_COLOR" value="274c67" />
+    <option name="INDENT_GUIDE" value="1d1d26" />
+    <option name="VISUAL_INDENT_GUIDE" value="1d1d26" />
+    <option name="SELECTED_INDENT_GUIDE" value="1d1d26" />
+    <option name="TEARLINE_COLOR" value="1d1d26" />
     <option name="SELECTED_TEARLINE_COLOR" value="219fd5" />
     <option name="SELECTION_BACKGROUND" value="193143" />
     <option name="ADDED_LINES_COLOR" value="39703f" />
@@ -364,7 +364,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="676773" />
+        <option name="FOREGROUND" value="3c6683" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">

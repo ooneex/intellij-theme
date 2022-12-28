@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.ooneex.theme</id>
     <name>Ooneex Theme</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <idea-version since-build="221.6008.13" />
 
     <vendor email="franck@ooneex.com" url="https://www.ooneex.com">Ooneex</vendor>
