@@ -1,4 +1,4 @@
-<scheme name="Ooneex Theme" version="1.0.1" parent_scheme="Darcula">
+<scheme name="Ooneex Theme" version="1.0.2" parent_scheme="Darcula">
 
   <metaInfo>
     <property name="created">2022-12-03T10:31:30</property>
@@ -58,6 +58,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4d5273" />
     <option name="FILESTATUS_MERGED" value="b78fcc" />
     <option name="FILESTATUS_MODIFIED" value="62baf5" />
+    <option name="FILESTATUS_IDEA_MODIFIED" value="62BAF5" />
     <option name="FILESTATUS_RENAMED" value="54bfbf" />
     <option name="FILESTATUS_UNKNOWN" value="bf8060" />
     <option name="FILESTATUS_addedOutside" value="548049" />
