@@ -1,22 +1,11 @@
-<scheme name="Ooneex Theme" version="1.0.2" parent_scheme="Darcula">
-
+<scheme name="Ooneex" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-12-03T10:31:30</property>
+    <property name="created">2023-01-17T17:17:39</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.1.4</property>
-    <property name="modified">2022-12-03T10:31:43</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-01-17T17:18:31</property>
     <property name="originalScheme">_@user_Ooneex</property>
   </metaInfo>
-
-  <option name="FONT_SCALE" value="2" />
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="EDITOR_INLINE_BLAME_ATTRIBUTES" value="3c6683" />
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LIGATURES" value="true" />
 
   <!--  Mine -->
   <colors>
@@ -29,28 +18,30 @@
     <option name="BREADCRUMBS_EDITOR_INLINE_BLAME_ATTRIBUTES" value="3c6683" />
     <option name="MATCHED_BRACE" value="193143" />
     <option name="CARET_COLOR" value="219fd5" />
-    <option name="TOOLTIP" value="1d1d26" />
-    <option name="CARET_ROW_COLOR" value="1e1e2a" />
+    <option name="TOOLTIP" value="001727" />
+    <option name="CARET_ROW_COLOR" value="061a2e" />
     <option name="NOTIFICATION_BACKGROUND" value="193143" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d1d26" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="001727" />
     <option name="WHITESPACES" value="2e3c43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="626273" />
-    <option name="GUTTER_BACKGROUND" value="1d1d26" />
+    <option name="GUTTER_BACKGROUND" value="001727" />
     <option name="LINE_NUMBERS_COLOR" value="7799bb" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="219fd5" />
-    <option name="LOOKUP_COLOR" value="1d1d26" />
-    <option name="INDENT_GUIDE" value="1d1d26" />
-    <option name="VISUAL_INDENT_GUIDE" value="1d1d26" />
-    <option name="SELECTED_INDENT_GUIDE" value="1d1d26" />
-    <option name="TEARLINE_COLOR" value="1d1d26" />
+    <option name="LOOKUP_COLOR" value="001727" />
+    <option name="INDENT_GUIDE" value="001727" />
+    <option name="VISUAL_INDENT_GUIDE" value="001727" />
+    <option name="SELECTED_INDENT_GUIDE" value="001727" />
+    <option name="TEARLINE_COLOR" value="001727" />
     <option name="SELECTED_TEARLINE_COLOR" value="219fd5" />
-    <option name="SELECTION_BACKGROUND" value="193143" />
+<!--    <option name="SELECTION" value="001727" />-->
+<!--    <option name="SELECTION_FOREGROUND" value="001727" />-->
+    <option name="SELECTION_BACKGROUND" value="102E4F" />
     <option name="ADDED_LINES_COLOR" value="39703f" />
     <option name="ANNOTATIONS_COLOR" value="3c6683" />
     <option name="DELETED_LINES_COLOR" value="ff80a1" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
-    <option name="DOCUMENTATION_COLOR" value="1d1d26" />
-    <option name="DOCUMENTATION_POPUP_COLOR" value="1d1d26" />
+    <option name="DOCUMENTATION_COLOR" value="001727" />
+    <option name="DOCUMENTATION_POPUP_COLOR" value="001727" />
     <option name="ERROR_HINT" value="ff80a1" />
     <option name="FILESTATUS_ADDED" value="76b366" />
     <option name="FILESTATUS_DELETED" value="7a7a99" />
@@ -78,23 +69,23 @@
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOC_COMMENT_GUIDE" value="3c6683" />
     <option name="DOC_COMMENT_LINK" value="3c6683" />
-    <option name="PROMOTION_PANE" value="1d1d26" />
+    <option name="PROMOTION_PANE" value="001727" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="193143" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="1d1d26" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="001727" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="193143" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="1d1d26" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="001727" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="193143" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="1d1d26" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="001727" />
     <option name="ScrollBar.Mac.thumbColor" value="193143" />
-    <option name="ScrollBar.Mac.trackColor" value="1d1d26" />
+    <option name="ScrollBar.Mac.trackColor" value="001727" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="193143" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="1d1d26" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="001727" />
     <option name="ScrollBar.Transparent.thumbColor" value="193143" />
-    <option name="ScrollBar.Transparent.trackColor" value="1d1d26" />
+    <option name="ScrollBar.Transparent.trackColor" value="001727" />
     <option name="ScrollBar.hoverThumbColor" value="193143" />
-    <option name="ScrollBar.hoverTrackColor" value="1d1d26" />
+    <option name="ScrollBar.hoverTrackColor" value="001727" />
     <option name="ScrollBar.thumbColor" value="193143" />
-    <option name="ScrollBar.trackColor" value="1d1d26" />
+    <option name="ScrollBar.trackColor" value="001727" />
   </colors>
 
   <attributes>
@@ -480,7 +471,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="313866" />
+        <option name="FOREGROUND" value="3c6683" />
+        <option name="BACKGROUND" value="061a2e" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -781,7 +773,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c9c9d1" />
-        <option name="BACKGROUND" value="1d1d26" />
+        <option name="BACKGROUND" value="001727" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1077,7 +1069,7 @@
     </option>
     <option name="CONSOLE_OUTPUT">
       <value>
-        <option name="BACKGROUND" value="1d1d26" />
+        <option name="BACKGROUND" value="001727" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -1501,12 +1493,6 @@
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="264b33" />
-      </value>
-    </option>
-    <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="3c6683" />
-        <option name="BACKGROUND" value="242433" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -4634,7 +4620,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="7799bb" />
-        <option name="BACKGROUND" value="1d1d26" />
+        <option name="BACKGROUND" value="001727" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
